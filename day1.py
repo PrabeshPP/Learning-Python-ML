@@ -1,5 +1,7 @@
-def hello():
-    print("My name is Prabesh Bista")
+print("Hello world")
 
+name=input("What is your name? ")
+color=input("What is your favourite color? ")
 
-hello()
+print(name)
+print(color)
